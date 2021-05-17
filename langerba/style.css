@@ -1,0 +1,349 @@
+
+ *body {
+  
+}
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+header {
+    padding-top: 5rem;
+    
+  }
+p{
+    color: #7d7d7d;
+}
+.p-carousel{
+    color:white;
+    font: 300 italic 18px/40px "Merriweather", serif;
+    letter-spacing: -0.1px;
+    text-align: center;
+    padding-bottom: 50px;
+} 
+.offset-1{
+    margin-left: 0;
+}
+.offset-2{
+    
+    margin-left: 0; 
+}
+.navbar{
+    background: #003c5a;
+    text-align: center;
+    padding-top: 2%;
+    margin-bottom: 0;
+    
+}
+.fixed-top {
+    position: fixed!important;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+a{
+    color:white;
+}
+
+li>a {
+    color: white ;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.navbar-brand{
+    font: 700 30px/62px "Merriweather", serif;
+    color: #edf4f8;
+    line-height: 15px;  
+}
+.dropdown-item {
+    color:#003c5a;
+
+}
+.call{
+    color:white !important;
+    font-size: 15px;
+}
+    
+ .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+.bg-secondary-darken {
+    background: #003c5a;
+    color: #fff;
+
+}
+
+.bg-secondary-lightest {
+    background: #edf4f8;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    
+}
+
+.bg-secondary-lightest-variant-1 {
+    background: #eaf2f6;
+    padding-bottom: 50px;
+    padding-top:50px;
+}
+ 
+.bg-form{
+    background: #003c5a;
+    color: #fff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.form-row{
+    width: 100%;
+    align-content: center;
+}
+
+
+.box-sm{
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.well-lg--inset-1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-carousel{
+    background: #e76e33;
+    color: #fff;
+    padding-top:80px;
+    padding-bottom:80px;
+}
+
+#navfooter{
+    background-color: #272727 ;
+
+    
+}
+
+footer{
+    background-color: #272727 ;
+}
+
+.footer-text-color{
+    color: #7d7d7d;
+}
+
+.btn {
+    
+    color: white !important;
+    text-transform: uppercase; 
+    margin-top: 20px;
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+.form-group .btn{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#e-mail{
+    display: block;
+    width: 100%;
+    margin: 0;
+    -webkit-appearance: none;
+    font-size: 16px;
+    padding: 8px 18px;
+    line-height: 34px;
+    color: #a2a2a2;
+    background: #fff;
+    margin-top: 20px;
+}
+
+.navbar-toggler-icon{
+    background: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='rgba(255, 255, 255, 1)' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+    }
+
+
+.icon-primary {
+    color: #fc8f44;
+}
+
+.icon-lg {
+    width: 90px;
+    height: 90px;
+    line-height: 86px;
+    font-size: 80px;
+    border-width: 2px;
+}
+.icon {
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    transition: .5s all ease;
+}
+
+.bg-image {
+    background-position: center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 40%;
+    margin-top: -23px;
+}
+
+.img02{
+    max-width: 100%;
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    padding-top:20px;
+   
+}
+
+img.logocarousel{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+}
+.iconfooter{
+    width: 20px;
+    height: 20px;
+    line-height: 16px;
+    font-size: 20px;
+    border-width: 2px;
+    color: #7d7d7d;
+}
+h1 {
+    font-size: 25px;
+    font-family: "Merriweather", serif;
+    margin-bottom: 1.rem;
+}
+h2{
+    margin-bottom: 15px;
+    display: block;
+    font-weight: 300;
+    font-family: "Merriweather", serif;
+    color: #252525;
+    font-size: 30px;
+    line-height: 1.55;
+}
+
+h2 .textleft{
+    text-align: center;
+}
+
+.h2-form{
+    color: #fff;
+    text-align:center;
+}
+
+.h2-carousel{
+    color: #fff;
+    text-align:center;
+}
+
+
+h2 + h3 {
+    margin-top: 35px;
+}
+
+
+
+h3{
+    color: #555555;
+    font-size: 20px;
+    line-height: 1.3125;
+    font-family: "Merriweather", serif;
+    margin-bottom: 20px;
+
+}
+
+
+h3.inset-2{
+    margin-bottom: 15px;
+}
+
+h4 {
+    color: #555555;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.45;
+    display: block;
+    font-family: "Merriweather", serif;
+}
+
+h5 {
+
+    font-weight: lighter;
+    color: #66b8e0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    line-height: 1.33;
+    text-align: center;
+}
+
+@media screen and (min-width:768px) {
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    h5 {
+        font-size: 15px;
+    }
+
+    .h5-form{
+        font-size: 12px;
+        line-height: 2.33;
+    }
+}
+
+
+@media screen and (min-width:992px){
+    h1 {
+        font-size: 50px;
+    }
+
+    h2{
+        font-size: 40px;
+    }
+    h5 {
+        font-size: 18px;
+    }
+
+    .h5-form{
+        font-size: 15px;
+        line-height: 2.33;
+    }
+
+}
+
+@media (min-width: 1200px){
+    
+    h1 {
+        font-size: 50px;
+    }
+
+    
+    h2{
+        font-size: 40px;
+    }
+
+
+    h3 {
+    font-size: 32px;
+    }
+
+    .h5-form{
+    font-size: 18px;
+    line-height: 2.33;
+}
+
+}
+
+
+
+
